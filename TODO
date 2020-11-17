@@ -1,0 +1,7 @@
+
+Performance Fix:
+@low gk perlu juga kgk apa, iseng aja.
+	☐ Artisan cache everthing.
+	☐ Composer dumpautoload
+	☐ Uses eager loading.
+	☐ Remove unused services.	
